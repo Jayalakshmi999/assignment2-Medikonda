@@ -19,4 +19,3 @@ Istanbul Airport
 - The Great Palace Mosaics Museum
 - Turbes Museum
 - Rumeli Hisari Fortress Museum
-**[about me link](AboutMe.md)**
