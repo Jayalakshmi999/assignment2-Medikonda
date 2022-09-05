@@ -12,3 +12,10 @@ Istanbul Airport
 5. Continue straight
 6. keep left
 7. Turkish and Islamic Arts Museum (destination)
+- Topkapi Palace
+- Hagia Irene
+- Galata Tower Museum
+- Istanbul Archaeological Museums
+- The Great Palace Mosaics Museum
+- Turbes Museum
+- Rumeli Hisari Fortress Museum
