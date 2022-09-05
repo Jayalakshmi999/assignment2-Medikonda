@@ -21,3 +21,12 @@ Istanbul Airport
 - Rumeli Hisari Fortress Museum
 
 **[about me link](AboutMe.md)**
+#Tables
+_ _ _
+It describes the cities, location and time to spend in particular location
+| City | Location | Time |
+| --- | --- | ---|
+| Newyork | Central Park | 2hours |
+| Newjersy | Coastline | 1hour|
+| Connecticut | Mystic | 3 hours |
+| Texas | The alamo | 4 hours |
