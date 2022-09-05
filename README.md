@@ -30,3 +30,12 @@ It describes the cities, location and time to spend in particular location
 | Newjersy | Coastline | 1hour|
 | Connecticut | Mystic | 3 hours |
 | Texas | The alamo | 4 hours |
+#  Pithy Quotes
+_ _ _
+> The Journey of a thousand miles begins with one step.
+
+*Lao Tzu*
+
+> Get busy living or get busy dying. 
+
+*Stephen King*
