@@ -39,3 +39,24 @@ _ _ _
 > Get busy living or get busy dying. 
 
 *Stephen King*
+# Code Fencing
+_ _ _
+> What does that mixin mean.
+[stackoverflow](https://stackoverflow.com/questions/54974250/what-does-this-mixin-mean)
+```
+/// Gives a card depth effect.
+/// @param {Number} $depth - depth level (between 1 and 5)
+/// @link http://www.google.com/design/spec/layout/layout-principles.html#layout-principles-dimensionality Google Design
+/// @requires {function} top-shadow
+/// @requires {function} bottom-shadow
+@mixin card($depth) {
+  @if $depth < 1 {
+    box-shadow: none;
+  } @else if $depth > 5 {
+    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
+  } @else {
+    box-shadow: bottom-shadow($depth), top-shadow($depth);  
+  }
+}
+```
+[Snippet Source](https://css-tricks.com/snippets/sass/material-shadows-mixin/)
