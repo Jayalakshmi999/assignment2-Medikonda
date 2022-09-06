@@ -41,7 +41,7 @@ _ _ _
 *Stephen King*
 _ _ _
 # Code Fencing
-> What does that mixin mean.
+> What does that mixin mean?
 [stackoverflow](https://stackoverflow.com/questions/54974250/what-does-this-mixin-mean)
 ```
 /// Gives a card depth effect.
