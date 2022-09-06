@@ -22,9 +22,8 @@ Istanbul Airport
 
 **[about me link](AboutMe.md)**
 _ _ _
-It descr
 # Tables
-ibes the cities, location and time to spend in particular location
+It describes the cities, location and time to spend in particular location
 | City | Location | Time |
 | --- | --- | ---|
 | Newyork | Central Park | 2hours |
