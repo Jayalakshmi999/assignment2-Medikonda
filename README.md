@@ -21,17 +21,18 @@ Istanbul Airport
 - Rumeli Hisari Fortress Museum
 
 **[about me link](AboutMe.md)**
-# Tables
 _ _ _
-It describes the cities, location and time to spend in particular location
+It descr
+# Tables
+ibes the cities, location and time to spend in particular location
 | City | Location | Time |
 | --- | --- | ---|
 | Newyork | Central Park | 2hours |
 | Newjersy | Coastline | 1hour|
 | Connecticut | Mystic | 3 hours |
 | Texas | The alamo | 4 hours |
-#  Pithy Quotes
 _ _ _
+#  Pithy Quotes
 > The Journey of a thousand miles begins with one step.
 
 *Lao Tzu*
@@ -39,8 +40,8 @@ _ _ _
 > Get busy living or get busy dying. 
 
 *Stephen King*
-# Code Fencing
 _ _ _
+# Code Fencing
 > What does that mixin mean.
 [stackoverflow](https://stackoverflow.com/questions/54974250/what-does-this-mixin-mean)
 ```
