@@ -32,13 +32,11 @@ It describes the cities, location and time to spend in particular location
 | Texas | The alamo | 4 hours |
 _ _ _
 #  Pithy Quotes
-> The Journey of a thousand miles begins with one step.
+> The Journey of a thousand miles begins with one step. *--Lao Tzu*
 
-*Lao Tzu*
+> Get busy living or get busy dying. *--Stephen King* 
 
-> Get busy living or get busy dying. 
 
-*Stephen King*
 _ _ _
 # Code Fencing
 > What does that mixin mean?
